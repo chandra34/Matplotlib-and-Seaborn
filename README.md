@@ -1,4 +1,4 @@
-# matplotlib-demos
+# matplotlib and seaborn-demos
 Matplotlib is an visualization library in phyton for 2D plots of arrays. Matplotlib is a multi-platform data visualization library built on Numpy arrays and designed to work with broader scipy stack. One of the greatest benefits of visualization is that it allows us visual access to huge amounts of data in easily digestible visuals. Matplotlib consists of several plots like line,bar,scatter, histogram etc.
 
 SEABORN:
